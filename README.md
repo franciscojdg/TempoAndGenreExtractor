@@ -52,4 +52,4 @@ TO DO: I will discuss a bit of the results here in the future
  
 Sources used for this work can be found [here](https://github.com/franciscojdg/TempoAndGenreExtractor/blob/master/Master%20Thesis/Master.bib)
 
-Special Thanks to H. Guimares whose [code](https://github.com/Hguimaraes/gtzan.keras) I used as a starting point for all this.
+Special Thanks to H. Guimares whose [code](https://github.com/Hguimaraes/gtzan.keras) helped me to get a head start.
