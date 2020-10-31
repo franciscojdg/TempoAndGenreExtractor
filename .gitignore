@@ -5,3 +5,5 @@ Modelo/logs/**
 Modelo/data/processed_dataset/**
 
 Data\ Processing/Datasets/**
+
+.idea/**
