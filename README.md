@@ -19,7 +19,7 @@ Although many datasets are available only the following were useful for the curr
  
  The audio files are cut into short audio clips and these are converted to frequency spectrograms so they can be processed as images and fed into a CNN
  
- ![spectrograms](Master Thesis/Figures/espectrogramas_db2.png)
+ ![spectrograms](https://github.com/franciscojdg/TempoAndGenreExtractor/blob/master/Master%20Thesis/Figures/espectrogramas_db2.png)
  
  ## Models
  
@@ -29,7 +29,7 @@ Although many datasets are available only the following were useful for the curr
  
  ### Final model
  The final model is composed of blocks of convolutions in a parallel branch structure which predicts both tempo and genre simultaneously.
- ![Final model structure](Master Thesis/Figures/arquitectura_mix.png)
+ ![Final model structure](https://github.com/franciscojdg/TempoAndGenreExtractor/blob/master/Master%20Thesis/Figures/arquitectura_mix.png)
  
  The training of this CNN can be found [here](Modelo/Red paralela para predicción de género y tempo.ipynb)
  
@@ -38,10 +38,10 @@ Although many datasets are available only the following were useful for the curr
 TO DO: I will discuss a bit of the results here in the future
 
 ### Genre
- ![genre confusion matrix](Master Thesis/Figures/confusion_final_genero.png)
+ ![genre confusion matrix](https://github.com/franciscojdg/TempoAndGenreExtractor/blob/master/Master%20Thesis/Figures/confusion_final_genero.png)
  
 ### Tempo
- ![tempo confusion matrix](Master Thesis/Figures/confusion_final_tempo.png)
+ ![tempo confusion matrix](https://github.com/franciscojdg/TempoAndGenreExtractor/blob/master/Master%20Thesis/Figures/confusion_final_tempo.png)
  
  ## Bibilography
  
