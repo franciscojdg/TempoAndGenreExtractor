@@ -17,11 +17,13 @@ Although many datasets are available only the following were useful for the curr
  
  ## Models
  
- The models used are shown in ...
+ The individual models that have been tested, as well as data processing performed, are described in separate jupyter notebooks under [Modelo](https://github.com/franciscojdg/TempoAndGenreExtractor/Modelo)
+ 
+ TO DO: describe models
  
  ## Results
  
- ...some results here...
+TO DO: I will discuss a bit of the results here in the future
  
  ## Bibilography
  
