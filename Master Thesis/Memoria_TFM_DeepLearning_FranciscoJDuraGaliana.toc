@@ -1,0 +1,25 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{\numberline {1}Planteamiento del problema y revisi\IeC {\'o}n de la literatura}{1}{chapter.4}% 
+\contentsline {section}{\numberline {1.1}Planteamiento del problema}{1}{section.5}% 
+\contentsline {section}{\numberline {1.2}Revisi\IeC {\'o}n literaria}{2}{section.6}% 
+\contentsline {section}{\numberline {1.3}Propuesta de modelo}{11}{section.15}% 
+\contentsline {chapter}{\numberline {2}Descripci\IeC {\'o}n de la t\IeC {\'e}cnica y resultados}{13}{chapter.16}% 
+\contentsline {section}{\numberline {2.1}Introducci\IeC {\'o}n}{13}{section.17}% 
+\contentsline {section}{\numberline {2.2}Datos}{13}{section.18}% 
+\contentsline {subsection}{\numberline {2.2.1}Obtenci\IeC {\'o}n y selecci\IeC {\'o}n de los datos}{14}{subsection.19}% 
+\contentsline {subsection}{\numberline {2.2.2}Procesamiento de datos de entrada}{16}{subsection.24}% 
+\contentsline {subsection}{\numberline {2.2.3}Procesamiento de datos de salida}{17}{subsection.27}% 
+\contentsline {subsection}{\numberline {2.2.4}Partici\IeC {\'o}n de los datos}{18}{subsection.30}% 
+\contentsline {section}{\numberline {2.3}Modelos y arquitecturas}{19}{section.33}% 
+\contentsline {subsection}{\numberline {2.3.1}Dise\IeC {\~n}o de una red CNN simple para predicci\IeC {\'o}n de genero}{20}{subsection.38}% 
+\contentsline {subsection}{\numberline {2.3.2}Dise\IeC {\~n}o de una red CNN con ramas paralelas para predicci\IeC {\'o}n de genero}{21}{subsection.39}% 
+\contentsline {subsection}{\numberline {2.3.3}Dise\IeC {\~n}o de una red CNN para predicci\IeC {\'o}n de tempo}{22}{subsection.41}% 
+\contentsline {subsection}{\numberline {2.3.4}Dise\IeC {\~n}o de una red CNN para predicci\IeC {\'o}n de g\IeC {\'e}nero y tempo}{24}{subsection.44}% 
+\contentsline {subsection}{\numberline {2.3.5}Algoritmos de aprendizaje y otros meta-par\IeC {\'a}metros}{25}{subsection.47}% 
+\contentsline {section}{\numberline {2.4}Resultados}{26}{section.48}% 
+\contentsline {subsection}{\numberline {2.4.1}Predicci\IeC {\'o}n de g\IeC {\'e}nero}{27}{subsection.49}% 
+\contentsline {subsection}{\numberline {2.4.2}Predicci\IeC {\'o}n de tempo}{28}{subsection.52}% 
+\contentsline {subsection}{\numberline {2.4.3}Predicci\IeC {\'o}n de g\IeC {\'e}nero y tempo}{28}{subsection.54}% 
+\contentsline {section}{\numberline {2.5}Conclusi\IeC {\'o}n}{30}{section.58}% 
+\contentsline {chapter}{\numberline {A}Resultados de entrenamiento}{31}{appendix.59}% 
+\contentsline {chapter}{Bibliograf\'{\i }a}{41}{dummy.74}% 

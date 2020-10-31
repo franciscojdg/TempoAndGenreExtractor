@@ -1,0 +1,65 @@
+%% ----------------------------------------------------------------
+%% MiniThesis.tex
+%% ---------------------------------------------------------------- 
+
+\documentclass{etilo_tfm_iuta}  % Use the minithesis Style
+\graphicspath{{../Figures/}}   % Location of your graphics files
+%\usepackage{cite}
+\usepackage{natbib}            % Use Natbib style for the refs.
+
+\usepackage{sectsty}
+
+%% \removecolourlinks    % Uncomment this command to remove colour from any links
+
+\usepackage{color}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+
+\usepackage{hyperref} %Control the hyperlinks (at the end of all other packages)
+\hypersetup{
+unicode=true, 
+pdftitle={Memoria TFM Deep Learning},
+pdfauthor={Francisco Jos\'{e} J Dur\'{a} Galiana},
+pdfnewwindow=true, 
+colorlinks=true,
+linkcolor=black,%blue, 				%linkcolor=color of internal links (sections, pages, etc.)
+linktoc=all,			
+citecolor=black,%red, 			%citecolor=color of citation links (bibliography)
+urlcolor=black,%blue,				%urlcolor=color of URL links (mail, web)
+breaklinks=true,
+}				
+\input{Definitions}            % Include your abbreviations
+%% ----------------------------------------------------------------
+\begin{document}
+\frontmatter
+\title      {Extracción de ritmos de audios}
+\authors    {\texorpdfstring
+            {\href{mailto:franciscojosedg@gmail.com}{\lowercase{\textcolor{black}}{Francisco J Dur\'{a} Galiana}}}
+            {Your Name}
+            }
+%\addresses  {\groupname\\\deptname\\\univname}
+\date       {\today}
+\subject    {}
+\keywords   {}
+\supervisor {Dr Francico José Soler Flores}
+%\examiner   {Dr Bharath Ganapathisubramani}
+\maketitle
+\begin{abstract}
+\bf \small	
+Recientemente, y gracias a la explosión que están teniendo las redes profundas, se están utilizando redes neuronales para generar y clasificar música automáticamente. Muchas de las arquitecturas propuestas producen resultados interesantes, pero todavía hay mucho camino para que una máquina componga canciones al completo por sí sola. Un campo que tiene poca investigación desde la perspectiva de las redes neuronales es la exploración de los ritmos de la música, campo que se considera esencial. Por lo tanto, en este trabajo se presenta una arquitectura convolucional para predecir género y tempo como paso inicial a la predicción de ritmos completos.
+
+\end{abstract}
+\tableofcontents
+\listoffigures
+\listoftables
+
+
+\mainmatter
+\include{Introduccion}
+\include{modelo}
+\appendix
+\include{apendice1}
+\backmatter
+\bibliographystyle{agsm}
+%\bibliographystyle{apalike}
+\bibliography{Master}
+\end{document}

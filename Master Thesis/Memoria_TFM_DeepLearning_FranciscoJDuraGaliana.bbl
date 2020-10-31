@@ -1,0 +1,127 @@
+\begin{thebibliography}{xx}
+
+\harvarditem[Costa et~al.]{Costa, de~Oliveira \harvardand\
+  Silla}{2017}{MGCosta:softcomputing:2017}
+Costa, Y. M.~G., de~Oliveira, L.~S. \harvardand\ Silla, C.  \harvardyearleft
+  2017\harvardyearright , `An evaluation of convolutional neural networks for
+  music classification using spectrograms', {\em Applied Soft Computing} {\bf
+  52}.
+
+\harvarditem{{Eck} \harvardand\
+  {Schmidhuber}}{2002}{eck:temporalstructure:2002}
+{Eck}, D. \harvardand\ {Schmidhuber}, J.  \harvardyearleft
+  2002\harvardyearright , Finding temporal structure in music: blues
+  improvisation with lstm recurrent networks, {\em in} `Proceedings of the 12th
+  IEEE Workshop on Neural Networks for Signal Processing', pp.~747--756.
+
+\harvarditem{Elowsson}{2018}{DBLP:journals/corr/abs-1804-08167}
+Elowsson, A.  \harvardyearleft 2018\harvardyearright , `Tempo-invariant
+  processing of rhythm with convolutional neural networks', {\em CoRR} {\bf
+  abs/1804.08167}.
+\newline\harvardurl{http://arxiv.org/abs/1804.08167}
+
+\harvarditem{Gers \harvardand\ Schmidhuber}{2001}{Gers2001LSTM}
+Gers, F.~A. \harvardand\ Schmidhuber, J.  \harvardyearleft
+  2001\harvardyearright , `Lstm recurrent networks learn simple context free
+  sensitive language', {\em IEEE Transactions on Neural Networks} {\bf
+  12}(6),~1333--1340.
+
+\harvarditem[Gers et~al.]{Gers, Schmidhuber \harvardand\
+  Cummins}{2000}{Gers2000LearningTF}
+Gers, F.~A., Schmidhuber, J. \harvardand\ Cummins, F.~A.  \harvardyearleft
+  2000\harvardyearright , `Learning to forget: Continual prediction with lstm',
+  {\em Neural Computation} {\bf 12}(10),~2451--2471.
+
+\harvarditem{Guimares}{2017}{hguimares:gtzankeras}
+Guimares, H.  \harvardyearleft 2017\harvardyearright , `{Music Genre
+  classification on GTZAN dataset using CNNs }'.
+\newline\harvardurl{https://github.com/Hguimaraes/gtzan.keras}
+
+\harvarditem[{Han} et~al.]{{Han}, {Kim} \harvardand\
+  {Lee}}{2016}{Han:instrumentRecognition:2017}
+{Han}, Y., {Kim}, J. \harvardand\ {Lee}, K.  \harvardyearleft
+  2016\harvardyearright , `Deep convolutional neural networks for predominant
+  instrument recognition in polyphonic music', {\em IEEE/ACM Transactions on
+  Audio, Speech, and Language Processing} {\bf 25}(1),~208--221.
+
+\harvarditem[J~Humphrey et~al.]{J~Humphrey, Bello \harvardand\
+  Lecun}{2012}{humphrey:2012}
+J~Humphrey, E., Bello, J. \harvardand\ Lecun, Y.  \harvardyearleft
+  2012\harvardyearright , `Moving beyond feature design: Deep architectures and
+  automatic feature learning in music informatics', {\em Proceedings of the
+  13th International Society for Music Information Retrieval Conference, ISMIR
+  2012} .
+
+\harvarditem{{Jehan}}{2005}{tristan:2005}
+{Jehan}, T.  \harvardyearleft 2005\harvardyearright , Downbeat prediction by
+  listening and learning, {\em in} `IEEE Workshop on Applications of Signal
+  Processing to Audio and Acoustics, 2005.', pp.~267--270.
+
+\harvarditem[{Klapuri} et~al.]{{Klapuri}, {Eronen} \harvardand\
+  {Astola}}{2006}{klapuri:2006}
+{Klapuri}, A.~P., {Eronen}, A.~J. \harvardand\ {Astola}, J.~T.
+  \harvardyearleft 2006\harvardyearright , `Analysis of the meter of acoustic
+  musical signals', {\em IEEE Transactions on Audio, Speech, and Language
+  Processing} {\bf 14}(1),~342--355.
+
+\harvarditem[Lazaro et~al.]{Lazaro, Sarno, Andr{\'e} \harvardand\
+  Mahardika}{2017}{Lazaro2017MusicTC}
+Lazaro, A., Sarno, R., Andr{\'e}, R. \harvardand\ Mahardika, M.~N.
+  \harvardyearleft 2017\harvardyearright , `Music tempo classification using
+  audio spectrum centroid, audio spectrum flatness, and audio spectrum spread
+  based on mpeg-7 audio features', {\em 2017 3rd International Conference on
+  Science in Information Technology (ICSITech)} pp.~41--46.
+
+\harvarditem[Lee et~al.]{Lee, Pham, Largman \harvardand\ Ng}{2009}{Lee:2009}
+Lee, H., Pham, P., Largman, Y. \harvardand\ Ng, A.~Y.  \harvardyearleft
+  2009\harvardyearright , Unsupervised feature learning for audio
+  classification using convolutional deep belief networks, {\em in} Y.~Bengio,
+  D.~Schuurmans, J.~D. Lafferty, C.~K.~I. Williams \harvardand\ A.~Culotta,
+  eds, `Advances in Neural Information Processing Systems 22', Curran
+  Associates, Inc., pp.~1096--1104.
+\newline\harvardurl{http://papers.nips.cc/paper/3674-unsupervised-feature-learning-for-audio-classification-using-convolutional-deep-belief-networks.pdf}
+
+\harvarditem{{Lewis}}{1988}{lewis:1988}
+{Lewis}  \harvardyearleft 1988\harvardyearright , Creation by refinement: a
+  creativity paradigm for gradient descent learning networks, {\em in} `IEEE
+  1988 International Conference on Neural Networks', pp.~229--233 vol.2.
+
+\harvarditem{Pons}{2018}{Pons:TowardsDataScience2018}
+Pons, J.  \harvardyearleft 2018\harvardyearright , `Neural networks for music:
+  A journey through its history', {\em Towards Data Science} .
+\newline\harvardurl{https://towardsdatascience.com/neural-networks-for-music-a-journey-through-its-history-91f93c3459fb}
+
+\harvarditem[Pons et~al.]{Pons, Nieto, Prockup, Schmidt, Ehmann \harvardand\
+  Serra}{2017a}{pons:end2end:2018}
+Pons, J., Nieto, O., Prockup, M., Schmidt, E.~M., Ehmann, A.~F. \harvardand\
+  Serra, X.  \harvardyearleft 2017a\harvardyearright , `End-to-end learning for
+  music audio tagging at scale', {\em CoRR} {\bf abs/1711.02520}.
+\newline\harvardurl{http://arxiv.org/abs/1711.02520,
+  https://github.com/jordipons/music-audio-tagging-at-scale-models}
+
+\harvarditem[Pons et~al.]{Pons, Slizovskaia, Gong, G{\'{o}}mez \harvardand\
+  Serra}{2017b}{DBLP:journals/corr/PonsSGGS17}
+Pons, J., Slizovskaia, O., Gong, R., G{\'{o}}mez, E. \harvardand\ Serra, X.
+  \harvardyearleft 2017b\harvardyearright , `Timbre analysis of music audio
+  signals with convolutional neural networks', {\em CoRR} {\bf abs/1703.06697}.
+\newline\harvardurl{http://arxiv.org/abs/1703.06697}
+
+\harvarditem{Schreiber \harvardand\ Meinard}{2018}{Schreiber:2018}
+Schreiber, H. \harvardand\ Meinard, M.  \harvardyearleft 2018\harvardyearright
+  , A single-step approach to musical tempo estimation using a convolutional
+  neural network, {\em in} `Proceedings of the 19th International Society for
+  Music Information Retrieval Conference ({ISMIR})', Paris, France,
+  pp.~98--105.
+
+\harvarditem{{Sheng Gao} \harvardand\ {Chin-Hui Lee}}{2004}{sheng:2004}
+{Sheng Gao} \harvardand\ {Chin-Hui Lee}  \harvardyearleft 2004\harvardyearright
+  , An adaptive learning approach to music tempo and beat analysis, {\em in}
+  `2004 IEEE International Conference on Acoustics, Speech, and Signal
+  Processing', Vol.~4, pp.~iv--iv.
+
+\harvarditem{Todd}{1988}{Todd1988}
+Todd, P.~M.  \harvardyearleft 1988\harvardyearright , A sequential network
+  design for musical applications, {\em in} `Connectionist Models Summer
+  School', pp.~76--84.
+
+\end{thebibliography}

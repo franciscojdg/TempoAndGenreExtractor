@@ -1,0 +1,17 @@
+\babel@toc {spanish}{}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces \leavevmode {\color {black}Invariabilidades a tener en cuenta para el procesamiento de ritmo en m\IeC {\'u}sica, de \cite {DBLP:journals/corr/abs-1804-08167}}\relax }}{7}{table.caption.11}% 
+\contentsline {table}{\numberline {1.2}{\ignorespaces \leavevmode {\color {black}Precisiones medias de la red profunda de \cite {Schreiber:2018}}\relax }}{10}{table.caption.14}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces \leavevmode {\color {black}Sets de datos encontrados}\relax }}{14}{table.caption.20}% 
+\contentsline {table}{\numberline {2.2}{\ignorespaces \leavevmode {\color {black}Sets de datos disponibles para entrenamiento de la red}\relax }}{14}{table.caption.21}% 
+\contentsline {table}{\numberline {2.3}{\ignorespaces \leavevmode {\color {black}Asignaci\IeC {\'o}n de clases de g\IeC {\'e}neros}\relax }}{17}{table.caption.28}% 
+\contentsline {table}{\numberline {2.4}{\ignorespaces \leavevmode {\color {black}Asignaci\IeC {\'o}n de clases sobre la variable de tempo agrupado}\relax }}{18}{table.caption.29}% 
+\contentsline {table}{\numberline {2.5}{\ignorespaces \leavevmode {\color {black}Dimensiones de los datos utilizados para el entrenamiento de la red}\relax }}{18}{table.caption.31}% 
+\contentsline {table}{\numberline {2.6}{\ignorespaces \leavevmode {\color {black}Precisi\IeC {\'o}n de la red de G\IeC {\'e}nero simple con respecto al formato de entrada}\relax }}{27}{table.caption.50}% 
+\contentsline {table}{\numberline {2.7}{\ignorespaces \leavevmode {\color {black}Comparaci\IeC {\'o}n de precisi\IeC {\'o}n de las redes de G\IeC {\'e}nero simple y paralela.}\relax }}{27}{table.caption.51}% 
+\contentsline {table}{\numberline {2.8}{\ignorespaces \leavevmode {\color {black}Comparaci\IeC {\'o}n de precisi\IeC {\'o}n de las redes de predicci\IeC {\'o}n de tempo.}\relax }}{28}{table.caption.53}% 
+\contentsline {table}{\numberline {2.9}{\ignorespaces \leavevmode {\color {black}Precisi\IeC {\'o}n (R$^2$ en este caso de Tempo) de la red simple con predicciones de g\IeC {\'e}nero y tempo.}\relax }}{29}{table.caption.55}% 
+\contentsline {table}{\numberline {2.10}{\ignorespaces \leavevmode {\color {black}Precisi\IeC {\'o}n de la red final con predicciones de g\IeC {\'e}nero y tempo.}\relax }}{29}{table.caption.56}% 
+\contentsline {table}{\numberline {2.11}{\ignorespaces \leavevmode {\color {black}Precisi\IeC {\'o}n de la red final con predicciones de g\IeC {\'e}nero y tempo utilizando espectrogramas escalados a decibelios.}\relax }}{29}{table.caption.57}% 
+\addvspace {10\p@ }

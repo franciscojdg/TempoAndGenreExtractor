@@ -1,0 +1,34 @@
+\babel@toc {spanish}{}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces \leavevmode {\color {black}Dise\IeC {\~n}o de una neurona LSTM de \cite {Gers2000LearningTF,Gers2001LSTM}}.\relax }}{2}{figure.caption.7}% 
+\contentsline {figure}{\numberline {1.2}{\ignorespaces \leavevmode {\color {black}Modelo de clasificaci\IeC {\'o}n utilizando ambos audio y representaci\IeC {\'o}n de espectrograma por \cite {MGCosta:softcomputing:2017}}.\relax }}{4}{figure.caption.8}% 
+\contentsline {figure}{\numberline {1.3}{\ignorespaces \leavevmode {\color {black}Arquitectura general de un modelo de extracci\IeC {\'o}n de informaci\IeC {\'o}n musical definida por \cite {pons:end2end:2018}}.\relax }}{5}{figure.caption.9}% 
+\contentsline {figure}{\numberline {1.4}{\ignorespaces \leavevmode {\color {black}Red Convolucional para clasificaci\IeC {\'o}n de instrumento por \cite {Han:instrumentRecognition:2017}}.\relax }}{6}{figure.caption.10}% 
+\contentsline {figure}{\numberline {1.5}{\ignorespaces \leavevmode {\color {black}Arquitectura de un predictor de tempos por \cite {Lazaro2017MusicTC}}.\relax }}{9}{figure.caption.12}% 
+\contentsline {figure}{\numberline {1.6}{\ignorespaces \leavevmode {\color {black}Arquitectura de un predictor de tempos con una red CNN profunda por \cite {Schreiber:2018}}.\relax }}{11}{figure.caption.13}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces \leavevmode {\color {black}Distribuci\IeC {\'o}n de tempos en los sets de datos encontrados}.\relax }}{15}{figure.caption.22}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces \leavevmode {\color {black}Distribuci\IeC {\'o}n de g\IeC {\'e}nero en los sets de datos encontrados}.\relax }}{15}{figure.caption.23}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces \leavevmode {\color {black}Espectrogramas de frecuencia}.\relax }}{16}{figure.caption.25}% 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces \leavevmode {\color {black}Espectrogramas de frecuencia en escala dB}.\relax }}{16}{figure.caption.26}% 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces \leavevmode {\color {black}Distribuci\IeC {\'o}n de las variables objetivo despu\IeC {\'e}s del corte de entrenamiento y test}.\relax }}{19}{figure.caption.32}% 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces \leavevmode {\color {black}Esquema de arquitectura de una red CNN con ramas paralelas}.\relax }}{21}{figure.caption.40}% 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces \leavevmode {\color {black}Esquema de arquitectura de una red CNN simple para predicci\IeC {\'o}n de tempo}.\relax }}{23}{figure.caption.42}% 
+\contentsline {figure}{\numberline {2.8}{\ignorespaces \leavevmode {\color {black}Esquema de arquitectura de una red CNN para predicci\IeC {\'o}n de tempo agrupado con filtros verticales y horizontales (versi\IeC {\'o}n H2V)}.\relax }}{23}{figure.caption.43}% 
+\contentsline {figure}{\numberline {2.9}{\ignorespaces \leavevmode {\color {black}Esquema de arquitectura de una red CNN simple para predicci\IeC {\'o}n de tempo y g\IeC {\'e}nero}.\relax }}{24}{figure.caption.45}% 
+\contentsline {figure}{\numberline {2.10}{\ignorespaces \leavevmode {\color {black}Esquema de arquitectura de una red CNN simple para predicci\IeC {\'o}n de tempo y g\IeC {\'e}nero}.\relax }}{25}{figure.caption.46}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces \leavevmode {\color {black}Entrenamiento de la red simple para predicci\IeC {\'o}n de g\IeC {\'e}nero}.\relax }}{31}{figure.caption.60}% 
+\contentsline {figure}{\numberline {A.2}{\ignorespaces \leavevmode {\color {black}Matriz de confusi\IeC {\'o}n de los resultados de la red simple para predicci\IeC {\'o}n de g\IeC {\'e}nero}.\relax }}{32}{figure.caption.61}% 
+\contentsline {figure}{\numberline {A.3}{\ignorespaces \leavevmode {\color {black}Entrenamiento de la red paralela para predicci\IeC {\'o}n de g\IeC {\'e}nero}.\relax }}{32}{figure.caption.62}% 
+\contentsline {figure}{\numberline {A.4}{\ignorespaces \leavevmode {\color {black}Matriz de confusi\IeC {\'o}n de los resultados de la red paralela para predicci\IeC {\'o}n de g\IeC {\'e}nero}.\relax }}{33}{figure.caption.63}% 
+\contentsline {figure}{\numberline {A.5}{\ignorespaces \leavevmode {\color {black}Entrenamiento de la red H2V para predicci\IeC {\'o}n de tempo}.\relax }}{33}{figure.caption.64}% 
+\contentsline {figure}{\numberline {A.6}{\ignorespaces \leavevmode {\color {black}Matriz de confusi\IeC {\'o}n de los resultados de la red H2V para predicci\IeC {\'o}n de tempo}.\relax }}{34}{figure.caption.65}% 
+\contentsline {figure}{\numberline {A.7}{\ignorespaces \leavevmode {\color {black}Entrenamiento de la red V2H para predicci\IeC {\'o}n de tempo}.\relax }}{34}{figure.caption.66}% 
+\contentsline {figure}{\numberline {A.8}{\ignorespaces \leavevmode {\color {black}Matriz de confusi\IeC {\'o}n de los resultados de la red V2H para predicci\IeC {\'o}n de tempo}.\relax }}{35}{figure.caption.67}% 
+\contentsline {figure}{\numberline {A.9}{\ignorespaces \leavevmode {\color {black}Entrenamiento de la red simple para predicci\IeC {\'o}n de g\IeC {\'e}nero y tempo}.\relax }}{36}{figure.caption.68}% 
+\contentsline {figure}{\numberline {A.10}{\ignorespaces \leavevmode {\color {black}Matriz de confusi\IeC {\'o}n de los resultados de g\IeC {\'e}nero de la red simple para predicci\IeC {\'o}n de g\IeC {\'e}nero y tempo}.\relax }}{37}{figure.caption.69}% 
+\contentsline {figure}{\numberline {A.11}{\ignorespaces \leavevmode {\color {black}Dispersi\IeC {\'o}n de resultados de tempo de la red simple para predicci\IeC {\'o}n de g\IeC {\'e}nero y tempo}.\relax }}{37}{figure.caption.70}% 
+\contentsline {figure}{\numberline {A.12}{\ignorespaces \leavevmode {\color {black}Entrenamiento de la red final/paralela para predicci\IeC {\'o}n de g\IeC {\'e}nero y tempo}.\relax }}{38}{figure.caption.71}% 
+\contentsline {figure}{\numberline {A.13}{\ignorespaces \leavevmode {\color {black}Matriz de confusi\IeC {\'o}n de los resultados de g\IeC {\'e}nero la red final/paralela para predicci\IeC {\'o}n de g\IeC {\'e}nero y tempo}.\relax }}{39}{figure.caption.72}% 
+\contentsline {figure}{\numberline {A.14}{\ignorespaces \leavevmode {\color {black}Matriz de confusi\IeC {\'o}n de los resultados de tempo de la red final/paralela para predicci\IeC {\'o}n de g\IeC {\'e}nero y tempo}.\relax }}{39}{figure.caption.73}% 
