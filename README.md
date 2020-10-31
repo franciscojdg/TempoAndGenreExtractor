@@ -31,8 +31,8 @@ Although many datasets are available only the following were useful for the curr
  The final model is composed of blocks of convolutions in a parallel branch structure which predicts both tempo and genre simultaneously.
  ![Final model structure](https://github.com/franciscojdg/TempoAndGenreExtractor/blob/master/Master%20Thesis/Figures/arquitectura_mix.png)
  
- The training of this CNN can be found [here](Modelo/Red paralela para predicción de género y tempo.ipynb)
- 
+ The training of this CNN can be found [here](https://github.com/franciscojdg/TempoAndGenreExtractor/blob/master/Modelo/Red_simple_para_prediccion_genero_y_tempo.ipynb)
+
  ## Results
  
 TO DO: I will discuss a bit of the results here in the future
