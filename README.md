@@ -15,6 +15,10 @@ Although many datasets are available only the following were useful for the curr
  - GTZAN: opihi.cs.uvic.ca/sound/genres.tar.gz
  - hainsworth: http://www.marsyas.info/tempo/ (also contains other useful datasets)
  
+ ## Models
+ 
+ The models used are shown in ...
+ 
  ## Bibilography
  
 Sources used for this work can be found [here](Master\ Thesis/Master.bib)
