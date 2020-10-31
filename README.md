@@ -6,7 +6,7 @@ This repository contains the models developed for my Master Thesis written for t
 
 The aim of this project was to find a good architecture for a neural network that predicts tempo and genre from short music audio clips.
 
-The [thesis](Master\ Thesis/Memoria_TFM_DeepLearning_FranciscoJDuraGaliana.pdf) is written in Spanish but I will start adding english notebooks to describe the process
+The [thesis](https://github.com/franciscojdg/TempoAndGenreExtractor/blob/master/Master%20Thesis/Memoria_TFM_DeepLearning_FranciscoJDuraGaliana.pdf) is written in Spanish but I will start adding english notebooks to describe the process
 
 ## Data
 
@@ -25,4 +25,4 @@ Although many datasets are available only the following were useful for the curr
  
  ## Bibilography
  
-Sources used for this work can be found [here](Master\ Thesis/Master.bib)
+Sources used for this work can be found [here](https://github.com/franciscojdg/TempoAndGenreExtractor/blob/master/Master%20Thesis/Master.bib)
