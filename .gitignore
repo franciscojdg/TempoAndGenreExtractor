@@ -1,1 +1,5 @@
 .ipynb_checkpoints
+
+Modelo/logs/*
+
+Modelo/data/processed_dataset/*
