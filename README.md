@@ -37,6 +37,11 @@ Although many datasets are available only the following were useful for the curr
  
 TO DO: I will discuss a bit of the results here in the future
 
+|       | Training | Test |
+|:-----:|:--------:|:----:|
+| Genre |   0.82   | 0.78 |
+| Tempo |   0.68   | 0.62 |
+
 ### Genre
  ![genre confusion matrix](https://github.com/franciscojdg/TempoAndGenreExtractor/blob/master/Master%20Thesis/Figures/confusion_final_genero.png)
  
