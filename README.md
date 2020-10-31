@@ -17,13 +17,12 @@ Although many datasets are available only the following were useful for the curr
  - GTZAN: opihi.cs.uvic.ca/sound/genres.tar.gz
  - hainsworth: http://www.marsyas.info/tempo/ (also contains other useful datasets
  
- The audio files are cut into short audio clips and these are converted to frequency spectrograms so they can be processed as images and fed into a CNN
- 
+ The audio files are cut into short audio clips and these are converted to frequency spectrograms so they can be processed as images and fed into a CNN. Example songs have been converted into such spectrograms below: 
  ![spectrograms](https://github.com/franciscojdg/TempoAndGenreExtractor/blob/master/Master%20Thesis/Figures/espectrogramas_db2.png)
  
  ## Models
  
- The individual models that have been tested, as well as data processing performed, are described in separate jupyter notebooks under [Modelo](https://github.com/franciscojdg/TempoAndGenreExtractor/Modelo)
+ The individual models that have been tested, as well as data processing performed, are described in separate jupyter notebooks in the directory [Modelo](https://github.com/franciscojdg/TempoAndGenreExtractor/Modelo)
  
  TO DO: describe models
  
@@ -31,16 +30,18 @@ Although many datasets are available only the following were useful for the curr
  The final model is composed of blocks of convolutions in a parallel branch structure which predicts both tempo and genre simultaneously.
  ![Final model structure](https://github.com/franciscojdg/TempoAndGenreExtractor/blob/master/Master%20Thesis/Figures/arquitectura_mix.png)
  
- The training of this CNN can be found [here](https://github.com/franciscojdg/TempoAndGenreExtractor/blob/master/Modelo/Red_simple_para_prediccion_genero_y_tempo.ipynb)
+ The training of this CNN can be found in [this notebook](https://github.com/franciscojdg/TempoAndGenreExtractor/blob/master/Modelo/Red_simple_para_prediccion_genero_y_tempo.ipynb)
 
  ## Results
  
 TO DO: I will discuss a bit of the results here in the future
 
-|       | Training | Test |
-|:-----:|:--------:|:----:|
-| Genre |   0.82   | 0.78 |
-| Tempo |   0.68   | 0.62 |
+Results of the best architecture found (shown above) are the following:
+
+| Accuracy | Training | Test |
+|:--------:|:--------:|:----:|
+|   Genre  |   0.82   | 0.78 |
+|   Tempo  |   0.68   | 0.62 |
 
 ### Genre
  ![genre confusion matrix](https://github.com/franciscojdg/TempoAndGenreExtractor/blob/master/Master%20Thesis/Figures/confusion_final_genero.png)
