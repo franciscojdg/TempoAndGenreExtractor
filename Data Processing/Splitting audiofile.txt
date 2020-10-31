@@ -1,0 +1,14 @@
+https://unix.stackexchange.com/questions/280767/how-do-i-split-an-audio-file-into-multiple
+
+
+
+This worked for me when I tried it on a mp3 file.
+
+$ ffmpeg -i somefile.mp3 -f segment -segment_time 3 -c copy out%03d.mp3
+
+Where -segment_time is the amount of time you want per each file (in seconds).
+References
+
+    Splitting an audio file into chunks of a specified length
+    4.22 segment, stream_segment, ssegment - ffmpeg documentation
+
